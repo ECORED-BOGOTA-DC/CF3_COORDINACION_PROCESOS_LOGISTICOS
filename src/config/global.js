@@ -2,9 +2,9 @@ export default {
   global: {
     componenteFormativo: 'Atención y servicio al cliente',
     descripcionCurso:
-      'Se establecen todos los conceptos generales sobre atención al cliente y proveedores, de acuerdo a los parámetros establecidos en la norma de atención a clientes y proveedores según requerimiento y procedimientos del servicio visto desde la logística.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
+      'Se establecen todos los conceptos generales sobre atención al cliente y proveedores, de acuerdo a los parámetros establecidos en la norma de atención a clientes y proveedores, según requerimiento y procedimientos del servicio visto desde la logística.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -222,97 +222,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Rafael Rodríguez Cuellar',
-        cargo: 'Instructor - Experto temático',
-        centro: 'Centro de la Industria, la Empresa y los Servicios',
-        regional: 'Regional Huila',
-      },
-      {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Luis Fernando Botero Mendoza',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor metodológico y pedagógico',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Blanca Flor Tinoco Torres',
-        cargo: 'Diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: [
-          'Carlos Eduardo Garavito Parada',
-          'Gilberto Junior Rodríguez Rodríguez',
-          'Ricardo Vásquez Arrovaye',
-          'Víctor Raúl Cárdenas Cáceres',
-          'Wilson Andrés Arenales Cáceres',
-          'Zuleidy Maria Ruiz Torres',
-        ],
-        cargo: 'Producción audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Jhon Jairo Urueta Álvarez',
-        cargo: 'Desarrollo front-end',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Jenny Paola Montillo Gélvez',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
   referencias: [
     {
       referencia:
@@ -464,11 +373,129 @@ export default {
   ],
   complementario: [
     {
+      tema: '3.4 Comunicación con los clientes',
       texto:
         'Wholemeaning (2018). 6 pasos a tomar para mejorar la comunicación con tus clientes.',
-      tipo: 'Pagina web',
+      referencia: 'Pagina web',
       link:
-        'https://www.wholemeaning.com/6-pasos-a-tomar-para-mejorar-la-comunicacion-con-tus-clientes/',
+        'https://wmwp.wholemeaning.com/6-pasos-a-tomar-para-mejorar-la-comunicacion-con-tus-clientes/',
     },
   ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Rafael Rodríguez Cuellar',
+          cargo: 'Instructor - Experto temático',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Huila',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Lida Alzáte Suarez',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseño web',
+          centro: 'Centro Industrial del Diseño y la Manufactura',
+          regional: 'Regional Santander',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo front-end',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: [
+            'Carlos Eduardo Garavito Parada',
+            'Gilberto Junior Rodríguez Rodríguez',
+            'Ricardo Vásquez Arrovaye',
+            'Víctor Raúl Cárdenas Cáceres',
+            'Wilson Andrés Arenales Cáceres',
+            'Zuleidy Maria Ruiz Torres',
+          ],
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo front-end',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
+  },
 }

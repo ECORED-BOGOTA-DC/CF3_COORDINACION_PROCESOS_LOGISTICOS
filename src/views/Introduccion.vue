@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure
+    figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/j-gV9O8eeQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
