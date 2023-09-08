@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p La atención al cliente en los procesos logísticos implica brindar un trato personalizado, eficiente y oportuno a lo largo de todas las etapas, desde la recepción de pedidos hasta la entrega final. Esto incluye una comunicación clara, seguimiento de las solicitudes del cliente, resolución de problemas y garantizar la puntualidad en la entrega de los productos.
+    p.mb-5 En resumen, la atención y servicio al cliente son fundamentales en una empresa, con un enfoque en la planificación estratégica, la fidelización, la medición y la satisfacción del cliente. Para lograrlo, es necesario contar con una cultura corporativa sólida y estrategias organizacionales flexibles que se adapten a las necesidades tanto de los clientes como de los proveedores. Al revisar estos temas, se puede observar el siguiente esquema.
 
     .row.justify-content-center
       .col-lg-10.mb-5
