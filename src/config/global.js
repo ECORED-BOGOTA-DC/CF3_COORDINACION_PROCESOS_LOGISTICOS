@@ -135,7 +135,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Servicio post-venta',
+            titulo: 'Servicio posventa',
             hash: 't_5_2',
           },
           {
@@ -189,12 +189,18 @@ export default {
       },
     ],
     subMenu: [
-      //{
-      //  nombreRuta: 'actividad',
-      //  icono: 'far fa-question-circle',
-      //  titulo: 'Actividad didáctica',
-      //  desarrolloContenidos: true,
-      //},
+      {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -292,7 +298,7 @@ export default {
     },
     {
       referencia:
-        'Questionpro. (2021). ¿Cuáles son los KPIs de servicio al cliente más efectivos?',
+        'Questionpro. (2021). ¿Cuáles son los KPI de servicio al cliente más efectivos?',
       link: 'https://www.questionpro.com/blog/es/kpis-de-servicio-al-cliente/',
     },
     {
@@ -454,17 +460,39 @@ export default {
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: [
-            'Carlos Eduardo Garavito Parada',
-            'Gilberto Junior Rodríguez Rodríguez',
-            'Ricardo Vásquez Arrovaye',
-            'Víctor Raúl Cárdenas Cáceres',
-            'Wilson Andrés Arenales Cáceres',
-            'Zuleidy Maria Ruiz Torres',
-          ],
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ricardo Vásquez Arrovaye',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Víctor Raúl Cárdenas Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy Maria Ruiz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
