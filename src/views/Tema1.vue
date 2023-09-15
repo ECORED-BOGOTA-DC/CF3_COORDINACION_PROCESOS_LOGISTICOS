@@ -2,18 +2,18 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 El cliente y la planeación estratégica
     
-    p.mb-5 Para iniciar se dará una vista grande de lo que significa el cliente en el proceso de la planeación estratégica, tal como se relaciona en el siguiente video:
+    p.mb-5(data-aos="fade-right") Para iniciar se dará una vista grande de lo que significa el cliente en el proceso de la planeación estratégica, tal como se relaciona en el siguiente video:
     
     figure.my-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/mXn7u_sUp-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 Para entender estos conceptos con claridad se debe ajustar el concepto de cliente y proveedor como ejes del funcionamiento del proceso, se evidencia a continuación el cliente como centro y algunas formas de tratarlo:
+    p.mb-5(data-aos="fade-right") Para entender estos conceptos con claridad se debe ajustar el concepto de cliente y proveedor como ejes del funcionamiento del proceso, se evidencia a continuación el cliente como centro y algunas formas de tratarlo:
     
     TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Definición" :icono="require('@/assets/curso/img1.svg')" alt="Imagen decorativa")
@@ -77,7 +77,7 @@
               img(src='@/assets/curso/img8.svg', style="width: 450px; margin: auto;" alt="Imagen decorativa")
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             .h4 Tipos de clientes según su nivel de fidelización
-            p.mb-5 Cada cliente es diferente, se debe aprender a identificar cada perfil para saber cómo tratarlos y obtener múltiples beneficios como el crecimiento de las ventas y el mejoramiento del servicio.
+            p.mb-5(data-aos="fade-right") Cada cliente es diferente, se debe aprender a identificar cada perfil para saber cómo tratarlos y obtener múltiples beneficios como el crecimiento de las ventas y el mejoramiento del servicio.
             a.anexo.mb-4(:href="obtenerLink('downloads/Tipos_de_clientes_segun_su_nivel_de_fidelizacion.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")

@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5  
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Trazabilidad
 
-    p La trazabilidad es el término que define la capacidad de rastrear el movimiento de un determinado ítem o servicio, a través de las diferentes fases de la cadena de suministro, obteniendo y siguiendo la historia de los artículos, identificando sus fases y localizaciones con claridad y precisión.
-    p.mb-5 La trazabilidad permite:
+    p(data-aos="fade-right") La trazabilidad es el término que define la capacidad de rastrear el movimiento de un determinado ítem o servicio, a través de las diferentes fases de la cadena de suministro, obteniendo y siguiendo la historia de los artículos, identificando sus fases y localizaciones con claridad y precisión.
+    p.mb-5(data-aos="fade-right") La trazabilidad permite:
     
     .row.justify-content-center.mb-4
       .col-lg-5.order-lg-1.order-2
@@ -48,7 +48,7 @@
     #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.1 Elementos de la trazabilidad
 
-    p.mb-5 La implementación de sistemas de trazabilidad requiere de cuatro principios básicos:
+    p.mb-5(data-aos="fade-right") La implementación de sistemas de trazabilidad requiere de cuatro principios básicos:
     
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta BG01" data-aos="zoom-in")
       .row(titulo="Identificación")
@@ -71,8 +71,8 @@
     #t_4_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.2 Trazabilidad en el servicio al cliente
 
-    p Son aquellos procedimientos establecidos y autosuficientes que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena de suministros en un momento dado, a través de herramientas determinadas.
-    p.mb-5 Para determinar el proceso, se determinan unos tipos de trazabilidad:
+    p(data-aos="fade-right") Son aquellos procedimientos establecidos y autosuficientes que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena de suministros en un momento dado, a través de herramientas determinadas.
+    p.mb-5(data-aos="fade-right") Para determinar el proceso, se determinan unos tipos de trazabilidad:
     
     .row.justify-content-center.mb-4
       .col-lg.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="fade-right")

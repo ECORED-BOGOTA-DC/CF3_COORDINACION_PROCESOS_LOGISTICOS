@@ -2,14 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Servicio al cliente
 
-    p Para Ariza & Ariza (2012), “la atención al cliente se define como el conjunto de actuaciones mediante las cuales una empresa gestiona la relación con sus clientes actuales o potenciales, antes o después de la compra del producto” (p.13), el fin de todo es la mayor satisfacción del cliente. 
-    p Para dar un buen servicio hay que crear un vínculo con el cliente, a fin de lograr una relación duradera, crear confianza, lograr que el cliente sea leal a la marca, producto o servicio. Lo importante aquí es que el cliente salga satisfecho y sienta que sus necesidades han sido satisfechas.
-    p Por lo anterior, es de gran importancia lograr diferenciar entre:
+    p(data-aos="fade-right") Para Ariza & Ariza (2012), “la atención al cliente se define como el conjunto de actuaciones mediante las cuales una empresa gestiona la relación con sus clientes actuales o potenciales, antes o después de la compra del producto” (p.13), el fin de todo es la mayor satisfacción del cliente. 
+    p(data-aos="fade-right") Para dar un buen servicio hay que crear un vínculo con el cliente, a fin de lograr una relación duradera, crear confianza, lograr que el cliente sea leal a la marca, producto o servicio. Lo importante aquí es que el cliente salga satisfecho y sienta que sus necesidades han sido satisfechas.
+    p(data-aos="fade-right") Por lo anterior, es de gran importancia lograr diferenciar entre:
     
     .row.justify-content-center.mb-4
       .col-lg-4.col-sm-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -28,27 +28,27 @@
         .h5 Experiencia del cliente
         p Es la suma de todos los contactos, desde el descubrimiento e investigación de un producto hasta su compra, pasando por su uso real y su seguimiento por parte de la marca. No se trata de una sola interacción, sino de todo el ciclo de vida del cliente y de todos los puntos de contacto que éste tiene con un producto o servicio.
     
-    p La manera de interactuar con un cliente es muy importante para lograr una mejor experiencia, ésta busca proporcionarle un buen servicio o producto, que logre cumplir con sus expectativas. El caso contrario es, si se otorga un mal servicio o se vende un producto que no cumple con lo que el cliente esperaba, logra provocar una mala experiencia, que se traduce en bajas ventas, pérdida de clientes y mala reputación en el voz a voz análogo y digital, lo que también puede ocasionar que los que todavía no son clientes, prefieran irse a la competencia.
+    p(data-aos="fade-right") La manera de interactuar con un cliente es muy importante para lograr una mejor experiencia, ésta busca proporcionarle un buen servicio o producto, que logre cumplir con sus expectativas. El caso contrario es, si se otorga un mal servicio o se vende un producto que no cumple con lo que el cliente esperaba, logra provocar una mala experiencia, que se traduce en bajas ventas, pérdida de clientes y mala reputación en el voz a voz análogo y digital, lo que también puede ocasionar que los que todavía no son clientes, prefieran irse a la competencia.
     
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.1 Políticas de servicio al cliente
 
-    p.mb-4 Son un conjunto de códigos de conducta que guían el enfoque y la actitud del servicio brindado a los consumidores, este es un documento escrito de carácter informativo que indica los valores que la empresa quiere transmitir y los procedimientos para resolver problemas.
+    p.mb-5(data-aos="fade-right") Son un conjunto de códigos de conducta que guían el enfoque y la actitud del servicio brindado a los consumidores, este es un documento escrito de carácter informativo que indica los valores que la empresa quiere transmitir y los procedimientos para resolver problemas.
     
     .row.justify-content-center.mb-4
       .col-10(data-aos="flip-up")
         .cajon.color-primario.p-4
           p.mb-0 Su objetivo es promover la coherencia en todas las interacciones. Es el camino para satisfacer las expectativas del cliente y cumplir con los objetivos de servicio en cualquier situación.
     
-    p.mb-5 Con una política de servicio y atención cercana al cliente, éste tiene a la mano lo que puede esperar de su empresa en términos de servicio, si el cliente tiene claro lo que puede esperar, habrá menos probabilidades de que se sienta inconforme.
-    .h4 Etapas de una política de servicio al cliente
-    p.mb-5 Conocer, analizar y definir objetivos, determina la relación con todas las variables que busca el cliente en el momento en el que nos solicita un producto o servicio. Podemos decir que la política de servicio al cliente debe contemplar los siguientes aspectos:
+    p.mb-5(data-aos="fade-right") Con una política de servicio y atención cercana al cliente, éste tiene a la mano lo que puede esperar de su empresa en términos de servicio, si el cliente tiene claro lo que puede esperar, habrá menos probabilidades de que se sienta inconforme.
+    .h4(data-aos="fade-left") Etapas de una política de servicio al cliente
+    p.mb-5(data-aos="fade-right") Conocer, analizar y definir objetivos, determina la relación con todas las variables que busca el cliente en el momento en el que nos solicita un producto o servicio. Podemos decir que la política de servicio al cliente debe contemplar los siguientes aspectos:
     
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/img23.svg', style="width: 1250px; margin: auto;" alt="Imagen decorativa")
 
-    p.mb-4 Cubrir estas etapas de una manera adecuada debe llevarnos a que el cliente sienta que se le facilita la vida disponiendo de existencias, gestionando de manera adecuada los pedidos, siendo precisos en la gestión de la información y en el transporte, envíos y entregas. Para ello, son necesarias la máxima flexibilidad y organización de todos los elementos que componen la logística operativa de todas las empresas que intervienen en el canal, para no percibir negativamente el servicio que se le ofrece.
+    p.mb-5(data-aos="fade-right") Cubrir estas etapas de una manera adecuada debe llevarnos a que el cliente sienta que se le facilita la vida disponiendo de existencias, gestionando de manera adecuada los pedidos, siendo precisos en la gestión de la información y en el transporte, envíos y entregas. Para ello, son necesarias la máxima flexibilidad y organización de todos los elementos que componen la logística operativa de todas las empresas que intervienen en el canal, para no percibir negativamente el servicio que se le ofrece.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-lg-0.mb-4(data-aos="fade-right")
@@ -88,8 +88,8 @@
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.3 Fidelización de los clientes
 
-    p.mb-4 El cliente, siendo la esencia y la razón de ser de la empresa, requiere un tratamiento estratégico, es decir, se debe planear y tener claro a qué tipo de clientes se quiere vincular al negocio y cómo lograr que se mantengan, que sigan consumiendo los productos a lo largo del tiempo pese a la competencia.
-    .h5.mb-5 Cuando se planea y actúa buscando que el cliente siga siéndolo, se habla de estrategias de retención de clientes y cuando se planea y actúa para que no se vaya a la competencia, se habla de estrategia de fidelización.
+    p.mb-4(data-aos="fade-right") El cliente, siendo la esencia y la razón de ser de la empresa, requiere un tratamiento estratégico, es decir, se debe planear y tener claro a qué tipo de clientes se quiere vincular al negocio y cómo lograr que se mantengan, que sigan consumiendo los productos a lo largo del tiempo pese a la competencia.
+    .h5.mb-5(data-aos="fade-left") Cuando se planea y actúa buscando que el cliente siga siéndolo, se habla de estrategias de retención de clientes y cuando se planea y actúa para que no se vaya a la competencia, se habla de estrategia de fidelización.
     
     .row.align-items-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -100,8 +100,8 @@
         figure
           img(src='@/assets/curso/img27.svg', style="width: 500px; margin: auto;" alt="Imagen decorativa")
     
-    p Hay una diferencia entre “retener” y “fidelizar” a los clientes. Se puede retener al cliente con precios menores que la competencia, con descuentos o con premios; pero estos son mecanismos de carácter temporal ya que de mantenerse por largo tiempo afectarían negativamente la rentabilidad y estabilidad del negocio. Es por ello que se deben desarrollar mecanismos de fidelización, ello implica un ejercicio permanente en donde el cliente, el producto y la forma de interactuar empresa-cliente, sean los mayores atributos.
-    p.mb-5 Por este motivo, para conservar los clientes actuales es importante verlo desde el punto de vista cualitativo y cuantitativo:
+    p(data-aos="fade-right") Hay una diferencia entre “retener” y “fidelizar” a los clientes. Se puede retener al cliente con precios menores que la competencia, con descuentos o con premios; pero estos son mecanismos de carácter temporal ya que de mantenerse por largo tiempo afectarían negativamente la rentabilidad y estabilidad del negocio. Es por ello que se deben desarrollar mecanismos de fidelización, ello implica un ejercicio permanente en donde el cliente, el producto y la forma de interactuar empresa-cliente, sean los mayores atributos.
+    p.mb-5(data-aos="fade-right") Por este motivo, para conservar los clientes actuales es importante verlo desde el punto de vista cualitativo y cuantitativo:
     
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5(data-aos="fade-right")
@@ -123,9 +123,9 @@
     #t_3_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.4 Comunicación con los clientes
 
-    p La base de una estrategia es transmitir cierta información para lograr un objetivo específico. Ya sea una empresa que habla con la audiencia o un proveedor que habla con los clientes, la buena comunicación nos permite conseguir nuestros objetivos: atraer clientes, avanzar en el proceso o solucionar problemas concretos.
-    p Según Velasco, Montoya & Montoya (2011), “la información para el consumidor cada vez constituirá un elemento más esencial de sus derechos” (p.158), la tendencia en este sentido en época de TIC es que el cliente debe estar informado, escuchado, bien tratado y reconocido; con más experiencias en todos los sentidos que de las que puede hablar en el momento a una comunidad con ganas de oír también.
-    p Teniendo en cuenta que las organizaciones deben seguir una orientación al consumidor, en cuanto a la calidad de los productos y servicios, pueden considerarse las siguientes dimensiones desde el punto de vista de los clientes:
+    p(data-aos="fade-right") La base de una estrategia es transmitir cierta información para lograr un objetivo específico. Ya sea una empresa que habla con la audiencia o un proveedor que habla con los clientes, la buena comunicación nos permite conseguir nuestros objetivos: atraer clientes, avanzar en el proceso o solucionar problemas concretos.
+    p(data-aos="fade-right") Según Velasco, Montoya & Montoya (2011), “la información para el consumidor cada vez constituirá un elemento más esencial de sus derechos” (p.158), la tendencia en este sentido en época de TIC es que el cliente debe estar informado, escuchado, bien tratado y reconocido; con más experiencias en todos los sentidos que de las que puede hablar en el momento a una comunidad con ganas de oír también.
+    p(data-aos="fade-right") Teniendo en cuenta que las organizaciones deben seguir una orientación al consumidor, en cuanto a la calidad de los productos y servicios, pueden considerarse las siguientes dimensiones desde el punto de vista de los clientes:
     
     .row.justify-content-center.mb-5
       .col-md-6.col-sm-8.mb-4.d-flex(data-aos="fade-right")
@@ -200,7 +200,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/img30.svg', alt="Imagen decorativa")
     
-    p.mb-5 El CRM almacena información sobre clientes actuales y potenciales (nombres, direcciones, números de teléfono, etc.) sus actividades y puntos de contacto con la empresa, incluidas visitas al sitio, llamadas telefónicas, correos electrónicos y otras interacciones. Al mismo tiempo, la plataforma no es solo una lista de contactos exhaustiva, sino que también recopila e integra datos valiosos para preparar y actualizar a su equipo utilizando la información personal del cliente, el historial y las preferencias de compra.
+    p.mb-5(data-aos="fade-right") El CRM almacena información sobre clientes actuales y potenciales (nombres, direcciones, números de teléfono, etc.) sus actividades y puntos de contacto con la empresa, incluidas visitas al sitio, llamadas telefónicas, correos electrónicos y otras interacciones. Al mismo tiempo, la plataforma no es solo una lista de contactos exhaustiva, sino que también recopila e integra datos valiosos para preparar y actualizar a su equipo utilizando la información personal del cliente, el historial y las preferencias de compra.
     
     .row.justify-content-center.mb-5
       .col-10
@@ -265,7 +265,7 @@
         p Aparentemente, el servicio puede parecer intangible, pero es necesario determinar parámetros de medida claros que aluden elementos tangibles, como referencia para lograr resultados, satisfacer al cliente y propiciar una mejora continua. En este sentido, toda organización tiene que adoptar un sistema de gestión que incluya los elementos tangibles y no tangibles para poder evaluar los procesos involucrados en la fabricación del servicio.
         p.mb-0 Para producir un servicio se requiere una serie de actividades secuenciales, sistémicas y coherentes que permite que este se pueda fabricar y por ende prestar. El modelo involucra todo un sistema que muestra los servicios como una parte visible de la organización, en un estilo de gestión, basado en un conjunto de procesos, procedimientos y actividades, que guiará las operaciones de manufactura, distribución y uso de servicios específicos.
     
-    p.mb-5 La servucción en la empresa de servicios es la organización sistemática y coherente de todos los elementos físicos y humanos de la relación cliente-empresa, necesaria para la prestación de un servicio bajo indicadores de calidad del servicio.
+    p.mb-5(data-aos="fade-right") La servucción en la empresa de servicios es la organización sistemática y coherente de todos los elementos físicos y humanos de la relación cliente-empresa, necesaria para la prestación de un servicio bajo indicadores de calidad del servicio.
     
     .row.justify-content-center.mb-5
       .col-10(data-aos="fade-right")
@@ -277,7 +277,7 @@
           .bloque-texto-d__autor 
             .h5.mb-0 Briceño & García (2008)
     
-    p.mb-5 Fabricar un servicio desde el punto de vista conceptual, parece poco probable, para que ello ocurra, intervienen en el proceso de fabricación de un servicio diferentes elementos y recursos que son propios de la organización.
+    p.mb-5(data-aos="fade-right") Fabricar un servicio desde el punto de vista conceptual, parece poco probable, para que ello ocurra, intervienen en el proceso de fabricación de un servicio diferentes elementos y recursos que son propios de la organización.
     
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -288,7 +288,7 @@
           img(src='@/assets/curso/img38.svg', alt="Imagen decorativa")
           figcaption.mt-3 Nota. <span style="font-weight: 400">Adaptado y modificado de Briceño & García (2008).</span>
     
-    .h4 Elementos del sistema de servucción
+    .h4(data-aos="fade-left") Elementos del sistema de servucción
     
     .row.justify-content-center.mt-5
       .col-10

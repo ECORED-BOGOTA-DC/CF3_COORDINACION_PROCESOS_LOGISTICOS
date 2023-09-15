@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
       h1 Medición del servicio al cliente
@@ -20,7 +20,7 @@
     #t_6_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 6.1 Satisfacción del cliente
 
-    p.mb-5 La satisfacción del cliente es el pilar básico de cualquier negocio, son los principales métodos o herramientas que las empresas pueden utilizar para medir la satisfacción de sus clientes, acá se exponen algunos de ellos:
+    p.mb-5(data-aos="fade-right") La satisfacción del cliente es el pilar básico de cualquier negocio, son los principales métodos o herramientas que las empresas pueden utilizar para medir la satisfacción de sus clientes, acá se exponen algunos de ellos:
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="zoom-in")
       .row(titulo="Encuestas")
@@ -73,7 +73,7 @@
     #t_6_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 6.2 Técnicas de evaluación del servicio
 
-    p.mb-5 En las técnicas de medición y evaluación del servicio existen varios instrumentos que permiten consignar la percepción y satisfacción del cliente a diferentes escalas.
+    p.mb-5(data-aos="fade-right") En las técnicas de medición y evaluación del servicio existen varios instrumentos que permiten consignar la percepción y satisfacción del cliente a diferentes escalas.
     
     .row.justify-content-center.mb-5 
       .col-10
@@ -111,8 +111,8 @@
     #t_6_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 6.3 Indicadores de gestión del servicio al cliente (medición del servicio)
 
-    p Los #[b indicadores de servicio] o #[b KPI] (#[i Key Performance Indicator]) permiten conocer la calidad de los productos o servicios que se comercializan en un mercado. La mejor forma de hacerlo es preguntando a los clientes sobre su nivel de satisfacción.
-    p.mb-5 Mora (2008), indica que “Los KPI de servicio al cliente son métricas que se encargan de medir el rendimiento y la forma en la que el equipo enfoca el soporte y en la experiencia del consumidor y administra sus labores” (parr.3); estos elementos permiten unas mediciones que se pueden monitorear y analizar constantemente buscando identificar más oportunidades de mejora en busca de ofrecer la mejor experiencia a cada cliente.
+    p(data-aos="fade-right") Los #[b indicadores de servicio] o #[b KPI] (#[i Key Performance Indicator]) permiten conocer la calidad de los productos o servicios que se comercializan en un mercado. La mejor forma de hacerlo es preguntando a los clientes sobre su nivel de satisfacción.
+    p.mb-5(data-aos="fade-right") Mora (2008), indica que “Los KPI de servicio al cliente son métricas que se encargan de medir el rendimiento y la forma en la que el equipo enfoca el soporte y en la experiencia del consumidor y administra sus labores” (parr.3); estos elementos permiten unas mediciones que se pueden monitorear y analizar constantemente buscando identificar más oportunidades de mejora en busca de ofrecer la mejor experiencia a cada cliente.
     
     .h4 Beneficios de tener KPI de servicio al cliente
     
@@ -182,8 +182,8 @@
     #t_6_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 6.4 Sistemas de Gestión de Calidad - ISO 9001
 
-    p Normas ISO (2021). La norma internacional ISO 9001 está enfocada a la consecución de la calidad en una organización mediante la implementación de un método o Sistema de Gestión de la Calidad (SGC). Esta norma se ha convertido desde el año 2002 en un referente de la calidad a nivel mundial. 
-    p.mb-4 En la norma ISO 9001 se establecen los requisitos de un Sistema de Gestión de la Calidad, que permiten a una empresa demostrar su capacidad de satisfacer los requisitos del cliente, de los proveedores y los diferentes colaboradores, el certificado ISO 9001 es el certificado de la norma ISO más común y reconocida a nivel nacional e internacional.
+    p(data-aos="fade-right") Normas ISO (2021). La norma internacional ISO 9001 está enfocada a la consecución de la calidad en una organización mediante la implementación de un método o Sistema de Gestión de la Calidad (SGC). Esta norma se ha convertido desde el año 2002 en un referente de la calidad a nivel mundial. 
+    p.mb-4(data-aos="fade-right") En la norma ISO 9001 se establecen los requisitos de un Sistema de Gestión de la Calidad, que permiten a una empresa demostrar su capacidad de satisfacer los requisitos del cliente, de los proveedores y los diferentes colaboradores, el certificado ISO 9001 es el certificado de la norma ISO más común y reconocida a nivel nacional e internacional.
     
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
@@ -194,8 +194,8 @@
           img(src='@/assets/curso/img57.svg', alt="Imagen decorativa")
           figcaption.mt-4 Nota. Modificado de Normas ISO (2021).
     
-    p La implementación de una ISO 9001 es, sin duda, una estrategia de diferenciación de una empresa con respecto a las demás y aventajar a la competencia en un mercado competitivo, demostrando que la gestión de la empresa se rige por los estándares de calidad que incorpora la Norma ISO 9001.
-    p.mb-4 Beneficios de la aplicación de ISO en una empresa:
+    p(data-aos="fade-right") La implementación de una ISO 9001 es, sin duda, una estrategia de diferenciación de una empresa con respecto a las demás y aventajar a la competencia en un mercado competitivo, demostrando que la gestión de la empresa se rige por los estándares de calidad que incorpora la Norma ISO 9001.
+    p.mb-4(data-aos="fade-right") Beneficios de la aplicación de ISO en una empresa:
     
     ul.lista-ul.mb-5
       li(data-aos="fade-right")
@@ -218,14 +218,14 @@
     #t_6_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 6.5 Mejora continua
 
-    p.mb-5 La mejora continua del servicio es la acción continua de todo sistema de gestión para lograr los objetivos deseados y hace parte de las herramientas básicas para aumentar la competitividad en las organizaciones.
+    p.mb-5(data-aos="fade-right") La mejora continua del servicio es la acción continua de todo sistema de gestión para lograr los objetivos deseados y hace parte de las herramientas básicas para aumentar la competitividad en las organizaciones.
     
     .row.justify-content-center.mb-5
       .col-10(data-aos="flip-up")
         .cajon1.color-primario1.p-4
           p.mb-0 Y basados en el contexto que dan Marín-García, Bautista-Poveda, & García-Sabater (2014), se entiende que la mejora continua es un proceso planificado, organizado y sistemático de cambios incrementales en los procesos productivos, en los sistemas o en las prácticas de trabajo, que permiten mejorar algún indicador de rendimiento. Es aplicable en todo tipo de empresas y está basada en el ciclo de Deming, compuesto por cuatro fases: estudiar la situación actual y recoger los datos necesarios para proponer las sugerencias de mejora; poner en marcha las propuestas seleccionadas a modo de prueba; comprobar si la propuesta ensayada está proporcionando los resultados esperados; implementar y estandarizar la propuesta con las modificaciones necesarias.
     
-    p.mb-5 Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de Deming que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, Do, Check y Act. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
+    p.mb-5(data-aos="fade-right") Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de Deming que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, Do, Check y Act. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
     
     .row.mx-0.mb-5
       .col-lg-3.col-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="fade-right")
@@ -260,7 +260,7 @@
         .h4.mt-3.mb-5 Actuar
         p.mt-5 Incorporar la mejora al proceso.
     
-    p Este elemento de mejora continua se debe aplicar cada vez que se pueda en cada proceso de la empresa, por eso precisamente se llama “ciclo” porque #[b no se detiene nunca] mientras la empresa esté trabajando.
+    p(data-aos="fade-right") Este elemento de mejora continua se debe aplicar cada vez que se pueda en cada proceso de la empresa, por eso precisamente se llama “ciclo” porque #[b no se detiene nunca] mientras la empresa esté trabajando.
 
 </template>
 

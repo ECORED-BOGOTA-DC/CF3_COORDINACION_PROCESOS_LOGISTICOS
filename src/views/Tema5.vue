@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
       h1 Novedades en el servicio al cliente
 
-    p.mb-5 En el campo de la atención al cliente, los entornos de trabajo son altamente digitales, cada uno de los servicios ha logrado migrar a niveles de digitalización que antes no se creía, por ejemplo, los servicios personales o la educación entre otras tantas cosas que hoy son novedosas y probablemente las personas mayores no lo crean. Algunos de los procesos u operativos que se trabajan de esta forma son los siguientes:
+    p.mb-5(data-aos="fade-right") En el campo de la atención al cliente, los entornos de trabajo son altamente digitales, cada uno de los servicios ha logrado migrar a niveles de digitalización que antes no se creía, por ejemplo, los servicios personales o la educación entre otras tantas cosas que hoy son novedosas y probablemente las personas mayores no lo crean. Algunos de los procesos u operativos que se trabajan de esta forma son los siguientes:
     
     TabsC.color-primario.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Analítica de datos y la inteligencia artificial")
@@ -57,7 +57,7 @@
     #t_5_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.1 Respuesta eficiente al cliente (ECR)
 
-    p.mb-4 ECR (Respuesta Eficiente al Consumidor - #[em Efficient Consumer Response]) es un modelo estratégico de negocios, en el cual, proveedores y distribuidores trabajan muy cerca para llevar mejores productos al consumidor, enfocándose conjuntamente en la eficiencia total del sistema de abastecimiento, en lugar de la eficiencia individual del productor o fabricante, logrando la reducción de costos de toda la cadena, en los inventarios y aumentando las ventajas físicas de la distribución, mientras el consumidor recibe productos de alta calidad.
+    p.mb-4(data-aos="fade-right") ECR (Respuesta Eficiente al Consumidor - #[em Efficient Consumer Response]) es un modelo estratégico de negocios, en el cual, proveedores y distribuidores trabajan muy cerca para llevar mejores productos al consumidor, enfocándose conjuntamente en la eficiencia total del sistema de abastecimiento, en lugar de la eficiencia individual del productor o fabricante, logrando la reducción de costos de toda la cadena, en los inventarios y aumentando las ventajas físicas de la distribución, mientras el consumidor recibe productos de alta calidad.
     
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
       p.mb-0 El objetivo final de ECR consiste en integrar los procesos logísticos y comerciales, pasando de un esquema push, donde los industriales fuerzan el ingreso de los productos a los canales comerciales, a un esquema pull, en el cual, se responde a la demanda real del consumidor logrando así una maximización de su satisfacción al mismo tiempo que se reducen los costos totales de operación.
@@ -115,8 +115,8 @@
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.2 Servicio posventa
 
-    p Se refiere al seguimiento y atención al cliente que se da después de la adquisición de un producto y/o servicio, y es tan fundamental como las demás estrategias que se implementan. La implementación de este proceso requiere de mucho tiempo y dedicación, y es una excelente manera de fidelizar a los clientes y abre la posibilidad de conseguir nuevos prospectos.
-    p.mb-5 La importancia del servicio posventa se enmarca en:
+    p(data-aos="fade-right") Se refiere al seguimiento y atención al cliente que se da después de la adquisición de un producto y/o servicio, y es tan fundamental como las demás estrategias que se implementan. La implementación de este proceso requiere de mucho tiempo y dedicación, y es una excelente manera de fidelizar a los clientes y abre la posibilidad de conseguir nuevos prospectos.
+    p.mb-5(data-aos="fade-right") La importancia del servicio posventa se enmarca en:
     
     .row.justify-content-center.mb-4
       .col-9
@@ -134,7 +134,7 @@
             i.fas.fa-angle-right(style="color: #FE7062")
             | El contacto con un cliente satisfecho con su compra genera la posibilidad de generar nuevas oportunidades de compras y aumenta el interés futuro hacia las ofertas y promociones, creando clientes recurrentes y cada vez más satisfechos.
     
-    p.mb-5 Dentro del servicio post venta, pueden identificarse algunas áreas que es importante atender después de la compra:
+    p.mb-5(data-aos="fade-right") Dentro del servicio post venta, pueden identificarse algunas áreas que es importante atender después de la compra:
     
     TabsA.color-acento-botones.mb-5(data-aos="zoom-in")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Promoción")
@@ -170,15 +170,15 @@
     #t_5_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.3 La logística del servicio al cliente - Output cadena de suministros
 
-    p.mb-4 Para Economipedia (2020), “el output es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1). Este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien lo requiere para suplir una necesidad.
+    p.mb-4(data-aos="fade-right") Para Economipedia (2020), “el output es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1). Este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien lo requiere para suplir una necesidad.
     
     .row.justify-content-center.mb-4
       .col-10(data-aos="flip-up")
         .cajon1.color-primario1.p-4
           p.mb-0 En otras palabras, el término output se refiere a toda mercancía que se consigue a partir de un proceso productivo; esto, con el fin de ofrecerla en el mercado a cambio de una contraprestación.
     
-    p Ahora bien, su aplicación al nivel del servicio al cliente está directamente relacionado con la gestión y efectividad de la gestión logística de todos los integrantes del canal: flujos de información, de materiales, de productos, etc. La logística del servicio al cliente se puede entender como todas las acciones que hace una empresa para que su cadena de suministros ofrezca lo mejor para sus clientes y mercado objetivo.
-    p.mb-5 Para llevar a cabo el diseño del servicio al cliente se deben tomar en consideración un conjunto de principios, tales como:
+    p(data-aos="fade-right") Ahora bien, su aplicación al nivel del servicio al cliente está directamente relacionado con la gestión y efectividad de la gestión logística de todos los integrantes del canal: flujos de información, de materiales, de productos, etc. La logística del servicio al cliente se puede entender como todas las acciones que hace una empresa para que su cadena de suministros ofrezca lo mejor para sus clientes y mercado objetivo.
+    p.mb-5(data-aos="fade-right") Para llevar a cabo el diseño del servicio al cliente se deben tomar en consideración un conjunto de principios, tales como:
     
     .row.justify-content-center.mb-4
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")

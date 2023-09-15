@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Planeación estratégica
@@ -18,7 +18,7 @@
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.1 Etapas de la planeación estratégica
 
-    p.mb-5 Este proceso consta de 3 etapas:
+    p.mb-5(data-aos="fade-right") Este proceso consta de 3 etapas:
     
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -49,9 +49,9 @@
     #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.2 Filosofía corporativa estratégica
     
-    p.mb-4 Cada empresa intenta dejar un legado que se articula por su programa de calidad y servicio gracias a su propuesta de valor, estos son los valores corporativos que integran la filosofía de la empresa, esta filosofía marca el camino para no dejar de lado el objetivo de servicio y crecimiento constante. A continuación, se describen los valores corporativos básicos con los que cada empresa debe izar su estandarte:
+    p.mb-4(data-aos="fade-right") Cada empresa intenta dejar un legado que se articula por su programa de calidad y servicio gracias a su propuesta de valor, estos son los valores corporativos que integran la filosofía de la empresa, esta filosofía marca el camino para no dejar de lado el objetivo de servicio y crecimiento constante. A continuación, se describen los valores corporativos básicos con los que cada empresa debe izar su estandarte:
     
-    TabsA.color-acento-botones.mb-5(data-aos="zoom-in")
+    TabsA.color-acento-botones.mb-4(data-aos="zoom-in")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Misión empresarial")
         p La misión habla sobre declaraciones perdurables del propósito que distingue a una compañía de otras similares. Es una proclama que describe el motivo o la razón de ser de una organización. También ayuda a identificar el alcance que tienen las operaciones de una empresa en términos del producto y del mercado. Debe estar definida de manera precisa y concreta para guiar al grupo de trabajo en el día a día.
         p.mb-4 Preguntas orientadoras para redactar una misión que deben ser resueltas por los directivos de la empresa:
@@ -135,7 +135,7 @@
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.3 Estrategias organizacionales
 
-    p.mb-4 La estrategia descansa sobre la noción de competitividad, abordar el tema de la estrategia en el campo organizacional se transforma en un asunto longitudinal, en la medida en que se asocia con la vida de la organización, se requiere preparar lo inesperado, la continua revisión de las condiciones iniciales de la organización y la toma de decisiones requieren la observación y la configuración de la realidad desde diferentes ópticas y departamentos de la empresa.
+    p.mb-5(data-aos="fade-right") La estrategia descansa sobre la noción de competitividad, abordar el tema de la estrategia en el campo organizacional se transforma en un asunto longitudinal, en la medida en que se asocia con la vida de la organización, se requiere preparar lo inesperado, la continua revisión de las condiciones iniciales de la organización y la toma de decisiones requieren la observación y la configuración de la realidad desde diferentes ópticas y departamentos de la empresa.
     
     .row.justify-content-center.mb-4
       .col-10(data-aos="fade-right")
@@ -147,7 +147,7 @@
           .bloque-texto-d__autor 
             .h5.mb-0 Noguera (2014)
     
-    p.mb-5 En una misma organización pueden llevarse a cabo estrategias de forma paralela en los diversos niveles y alcances del proyecto; las estrategias organizacionales son:
+    p.mb-5(data-aos="fade-right") En una misma organización pueden llevarse a cabo estrategias de forma paralela en los diversos niveles y alcances del proyecto; las estrategias organizacionales son:
     
     AcordionA(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="zoom-in")
       .row(titulo="Estrategia de nivel corporativo")
