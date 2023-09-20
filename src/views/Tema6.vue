@@ -228,9 +228,10 @@
     p.mb-5(data-aos="fade-right") Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de Deming que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, Do, Check y Act. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
     
     .row.mx-0.mb-5
-      .col-lg-3.col-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
+      .col-lg-3.col-md-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="fade-right")
+        .row.justify-content-center.mb-4
+          .col-lg.col-6
+            img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
         .h4.mt-3.mb-5 Planificar
         p.mt-5 Involucrar a la gente correcta.
         p Recopilar los datos disponibles.
@@ -238,15 +239,17 @@
         p Estudiar exhaustivamente el/los procesos involucrados.
         p ¿Es el proceso capaz de cumplir las necesidades?
         p Desarrollar el plan/entrenar al personal.
-      .col-lg-3.col-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="flip-right")
-        figure
-          img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
+      .col-lg-3.col-md-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="flip-right")
+        .row.justify-content-center.mb-4
+          .col-lg.col-6
+            img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
         .h4.mt-3.mb-5 Hacer
         p.mt-5 Implementar la mejora/verificar las causas de los problemas.
         p Recopilar los datos apropiados.
-      .col-lg-3.col-6.px-2.py-5.bg-colo2(data-aos="flip-left")
-        figure
-          img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
+      .col-lg-3.col-md-6.px-2.py-5.bg-colo2(data-aos="flip-left")
+        .row.justify-content-center.mb-4
+          .col-lg.col-6
+            img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
         .h4.mt-3.mb-5 Verificar
         p.mt-5 Analizar y desplegar los datos.
         p ¿Se han alcanzado los resultados deseados?
@@ -254,9 +257,10 @@
         p Revisar los problemas y errores.
         p ¿Qué se aprendió?
         p ¿Qué queda aún por resolver?
-      .col-lg-3.col-6.px-2.py-5.bg-colo2(data-aos="fade-left")
-        figure
-          img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
+      .col-lg-3.col-md-6.px-2.py-5.bg-colo2(data-aos="fade-left")
+        .row.justify-content-center.mb-4
+          .col-lg.col-6
+            img(src='@/assets/curso/img58.svg', style="width: 80px;" alt="Imagen decorativa")
         .h4.mt-3.mb-5 Actuar
         p.mt-5 Incorporar la mejora al proceso.
     

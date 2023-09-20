@@ -169,18 +169,18 @@
                   span #[b Renovación: ] 
                     | a nivel gerencial, esta estrategia examina todos los procesos que requieran mejoras debido a deficiencias de producción o ventas. Su objetivo es aprender de los errores cometidos para mejorar su desempeño general.
       div(titulo="Estrategia de nivel empresarial")
-        .row.align-items-start
-          .col-lg-2.col-3
+        .row.justify-content-center.align-items-start
+          .col-lg-2.col-4.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/img18.svg', style="width: 200px; margin: auto;" alt="Imagen decorativa")
-          .col-lg-10.col-9
+          .col-lg-10
             p.mb-0 Hablando sobre la competencia en los negocios, este tipo de estrategia ve por la forma en cómo se elegirá manejar a nuestro favor las ventajas competitivas de la empresa. Las estrategias se encaminan a determinar la función como ventaja competitiva, si de alguna forma se destaca o se es diferente; o la calidad como ventaja competitiva, preguntándose si realmente el producto resalta por sus sostenidos estándares.
       div(titulo="Estrategias a nivel funcional")
-        .row.align-items-start
-          .col-lg-2.col-3
+        .row.justify-content-center.align-items-start
+          .col-lg-2.col-4.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/img19.svg', style="width: 200px; margin: auto;" alt="Imagen decorativa")
-          .col-lg-10.col-9
+          .col-lg-10
             p.mb-0 Por último, se ubican las estrategias arraigadas en cada nivel estructural de una empresa para alinearlas en un mismo objetivo, estas se conocen como estrategia de nivel funcional. Estas son las estrategias de producción, marketing, financiera, recursos humanos e investigación y desarrollo; qué se va a producir, en qué medida y a qué tiempos; cómo se va a comercializar nuestro producto, qué determinará los costos y nuestros proyectos de financiamiento, cómo se manejará, capacitará y seleccionará a nuestro personal y por último, cuáles son las nuevas técnicas de desarrollo y el uso de tecnologías que podemos implementar en nuestra organización.
 
 </template>

@@ -71,7 +71,7 @@
           img(src='@/assets/curso/img49.svg', alt="Imagen decorativa")
           figcaption.mt-3.mb-5 Nota. <span style="font-weight: 400">Adaptado y modificado de López (2001).</span>
         .row.justify-content-center
-          .col-6
+          .col-lg-6
             .h4 Procesos a mejorar
             ul.lista-ul
               li(data-aos="fade-right")
@@ -95,7 +95,7 @@
               li(data-aos="fade-right")
                 i.fas.fa-angle-right(style="color: #FE7062")
                 | Optimizar la logística.
-          .col-6
+          .col-lg-6
             .h4 Beneficios
             ul.lista-ul
               li(data-aos="fade-left") 
@@ -183,43 +183,50 @@
     .row.justify-content-center.mb-4
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La diferenciación del servicio para los distintos segmentos de mercado.
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 El funcionamiento del sistema logístico como caja negra para el cliente.
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La competitividad de la empresa.
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La transparencia de la meta de servicio tanto para el cliente como para quien brinda y apoya el servicio.
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La racionalidad en la utilización de los recursos y procesos.
       .col-lg-5.col-sm-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La personalización del servicio.
       .col-lg-5.col-sm-10(data-aos="fade-right")
         .tarjeta-avatar-b
-          img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/img54.svg' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul
             .p-4
               p.mb-0 La satisfacción del cliente en cuanto a cantidad, calidad, tiempo y precio.
