@@ -68,7 +68,7 @@
           h5 Figura 3.
           span Respuesta al consumidor ECR
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/img49.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/img49.svg', alt="Muestra el esquema de la respuesta del consumidor ECR, iniciando con el flujo de productos precisos, confiables y oportunos allí actúan diferentes actores, el fabricante de materiales, el centro de distribución, consumidor, productor (proveedor) y estoquistas, teniendo finalmente una salida de flujo de productos, continuo, uniforme y directamente asociado al consumo.")
           figcaption.mt-3.mb-5 Nota. <span style="font-weight: 400">Adaptado y modificado de López (2001).</span>
         .row.justify-content-center
           .col-lg-6

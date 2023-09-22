@@ -107,7 +107,7 @@
             p.mb-0 En la figura se muestran los criterios recomendados por Castellanos (2015) para la selección de un proveedor.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/img12.svg', style="width: 600px; margin: auto;" alt="Imagen decorativa")
+              img(src='@/assets/curso/img12.svg', style="width: 600px; margin: auto;" alt="Muestra un mapa, con: Selección de proveedores: entrega oportuna, excelente servicio, el mejor precio, garantía de devolución, calidad de los productos.")
       .py-4.py-md-5(titulo="Recuerde" :icono="require('@/assets/curso/img11.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-4.col-8.mb-lg-0.mb-4

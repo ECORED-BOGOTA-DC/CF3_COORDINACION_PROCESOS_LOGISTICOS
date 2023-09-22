@@ -46,7 +46,7 @@
     p.mb-5(data-aos="fade-right") Conocer, analizar y definir objetivos, determina la relación con todas las variables que busca el cliente en el momento en el que nos solicita un producto o servicio. Podemos decir que la política de servicio al cliente debe contemplar los siguientes aspectos:
     
     figure.mb-5(data-aos="zoom-in")
-      img(src='@/assets/curso/img23.svg', style="width: 1250px; margin: auto;" alt="Imagen decorativa")
+      img(src='@/assets/curso/img23.svg', style="width: 1250px; margin: auto;" alt="Pasos de la politica de servicio al cliente:<br>1. Identificar los elementos clave del servicio <br>2. Establecer su importancia relativa para los clientes<br>3. Comunicación existente entre la empresa y los clientes.<br>4. Controlar la eficiencia de la política implantada y corregirla si es necesario.")
 
     p.mb-5(data-aos="fade-right") Cubrir estas etapas de una manera adecuada debe llevarnos a que el cliente sienta que se le facilita la vida disponiendo de existencias, gestionando de manera adecuada los pedidos, siendo precisos en la gestión de la información y en el transporte, envíos y entregas. Para ello, son necesarias la máxima flexibilidad y organización de todos los elementos que componen la logística operativa de todas las empresas que intervienen en el canal, para no percibir negativamente el servicio que se le ofrece.
     
@@ -198,7 +198,7 @@
           h5 Figura 1.
           span Pilares del CRM
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/img30.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/img30.svg', alt="Representa os pilares del CRM, que son: analizar el cliente, relaciones con el cliente y atraer al cliente.")
     
     p.mb-5(data-aos="fade-right") El CRM almacena información sobre clientes actuales y potenciales (nombres, direcciones, números de teléfono, etc.) sus actividades y puntos de contacto con la empresa, incluidas visitas al sitio, llamadas telefónicas, correos electrónicos y otras interacciones. Al mismo tiempo, la plataforma no es solo una lista de contactos exhaustiva, sino que también recopila e integra datos valiosos para preparar y actualizar a su equipo utilizando la información personal del cliente, el historial y las preferencias de compra.
     
@@ -285,7 +285,7 @@
           h5 Figura 2.
           span Producción de servicios
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/img38.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/img38.svg', alt="Muestra la producción de servicios, teniendo una entrada como estrategia, un procesos donde se encuentra el talento humano, los procesos, la organización interna y el soporte físico, a su vez se genera una salida que es el servicio que va directamente al cliente.")
           figcaption.mt-3 Nota. <span style="font-weight: 400">Adaptado y modificado de Briceño & García (2008).</span>
     
     .h4(data-aos="fade-left") Elementos del sistema de servucción

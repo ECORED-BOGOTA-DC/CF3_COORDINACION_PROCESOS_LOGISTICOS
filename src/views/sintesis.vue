@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Representa la síntesis del componente formativo Atención y servicio al cliente, teniendo en cuenta el cliente, la medición, planeación estratégica servicio al cliente y trazabilidad y el desarrollo de cada una de estas.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
