@@ -104,7 +104,7 @@
                 td Tiempo para solución de quejas
                 td Permite mejorar los tiempos de atención al cliente y aumenta la posibilidad de mantenerlos fieles a la empresa.
               tr
-                td.bg-color1 Indicador Net Promoter Score
+                td.bg-color1 <i>Indicador Net Promoter Score</i>
                 td.bg-color1 Ofrece la posibilidad de conocer si el cliente está satisfecho con el servicio y recomendará a la empresa.
     
     separador
@@ -188,7 +188,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
-          h5 Figura 4.
+          h5 Figura 7.
           span Mejora continua
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/img57.svg', alt="Imagen decorativa")
@@ -223,9 +223,9 @@
     .row.justify-content-center.mb-5
       .col-10(data-aos="flip-up")
         .cajon1.color-primario1.p-4
-          p.mb-0 Y basados en el contexto que dan Marín-García, Bautista-Poveda, & García-Sabater (2014), se entiende que la mejora continua es un proceso planificado, organizado y sistemático de cambios incrementales en los procesos productivos, en los sistemas o en las prácticas de trabajo, que permiten mejorar algún indicador de rendimiento. Es aplicable en todo tipo de empresas y está basada en el ciclo de Deming, compuesto por cuatro fases: estudiar la situación actual y recoger los datos necesarios para proponer las sugerencias de mejora; poner en marcha las propuestas seleccionadas a modo de prueba; comprobar si la propuesta ensayada está proporcionando los resultados esperados; implementar y estandarizar la propuesta con las modificaciones necesarias.
+          p.mb-0 Y basados en el contexto que dan Marín-García, Bautista-Poveda, & García-Sabater (2014), se entiende que la mejora continua es un proceso planificado, organizado y sistemático de cambios incrementales en los procesos productivos, en los sistemas o en las prácticas de trabajo, que permiten mejorar algún indicador de rendimiento. Es aplicable en todo tipo de empresas y está basada en el ciclo de <i>Deming</i>, compuesto por cuatro fases: estudiar la situación actual y recoger los datos necesarios para proponer las sugerencias de mejora; poner en marcha las propuestas seleccionadas a modo de prueba; comprobar si la propuesta ensayada está proporcionando los resultados esperados; implementar y estandarizar la propuesta con las modificaciones necesarias.
     
-    p.mb-5(data-aos="fade-right") Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de Deming que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, Do, Check y Act. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
+    p.mb-5(data-aos="fade-right") Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de <i>Deming</i> que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, <i>Do</i>, <i>Check</i> y <i>Act</i>. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
     
     .row.mx-0.mb-5
       .col-lg-3.col-md-6.px-2.py-5.bg-colo2.mb-lg-0.mb-4(data-aos="fade-right")

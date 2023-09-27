@@ -24,7 +24,7 @@
               img(src='@/assets/curso/img44.svg', alt="Imagen decorativa")
           .col-lg-6
             p.mb-0 El trabajar de forma remota planteó muchos desafíos en la experiencia de cliente, muchas empresas han implementado procesos y tecnología para brindar un soporte eficiente y eficaz en un entorno remoto.
-      .py-3.py-md-4(titulo="Inteligencia artificial - Bots")
+      .py-3.py-md-4(titulo="Inteligencia artificial - <i>Bots</i>")
         .row.align-items-center.justify-content-center
           .col-lg-4.col-8.mb-lg-0.mb-4
             figure
@@ -60,12 +60,12 @@
     p.mb-4(data-aos="fade-right") ECR (Respuesta Eficiente al Consumidor - #[em Efficient Consumer Response]) es un modelo estratégico de negocios, en el cual, proveedores y distribuidores trabajan muy cerca para llevar mejores productos al consumidor, enfocándose conjuntamente en la eficiencia total del sistema de abastecimiento, en lugar de la eficiencia individual del productor o fabricante, logrando la reducción de costos de toda la cadena, en los inventarios y aumentando las ventajas físicas de la distribución, mientras el consumidor recibe productos de alta calidad.
     
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
-      p.mb-0 El objetivo final de ECR consiste en integrar los procesos logísticos y comerciales, pasando de un esquema push, donde los industriales fuerzan el ingreso de los productos a los canales comerciales, a un esquema pull, en el cual, se responde a la demanda real del consumidor logrando así una maximización de su satisfacción al mismo tiempo que se reducen los costos totales de operación.
+      p.mb-0 El objetivo final de ECR consiste en integrar los procesos logísticos y comerciales, pasando de un esquema <i>push</i>, donde los industriales fuerzan el ingreso de los productos a los canales comerciales, a un esquema <i>pull</i>, en el cual, se responde a la demanda real del consumidor, logrando así una maximización de su satisfacción al mismo tiempo que se reducen los costos totales de operación.
     
     .row.justify-content-center.mb-5
       .col-10
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
-          h5 Figura 3.
+          h5 Figura 6.
           span Respuesta al consumidor ECR
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/img49.svg', alt="Muestra el esquema de la respuesta del consumidor ECR, iniciando con el flujo de productos precisos, confiables y oportunos allí actúan diferentes actores, el fabricante de materiales, el centro de distribución, consumidor, productor (proveedor) y estoquistas, teniendo finalmente una salida de flujo de productos, continuo, uniforme y directamente asociado al consumo.")
@@ -168,14 +168,14 @@
     
     separador
     #t_5_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 5.3 La logística del servicio al cliente - Output cadena de suministros
+      h2 5.3 La logística del servicio al cliente - <i>Output</i> cadena de suministros
 
-    p.mb-4(data-aos="fade-right") Para Economipedia (2020), “el output es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1). Este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien lo requiere para suplir una necesidad.
+    p.mb-4(data-aos="fade-right") Para Economipedia (2020), “el <i>Output</i> es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1). Este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien lo requiere para suplir una necesidad.
     
     .row.justify-content-center.mb-4
       .col-10(data-aos="flip-up")
         .cajon1.color-primario1.p-4
-          p.mb-0 En otras palabras, el término output se refiere a toda mercancía que se consigue a partir de un proceso productivo; esto, con el fin de ofrecerla en el mercado a cambio de una contraprestación.
+          p.mb-0 En otras palabras, el término <i>Output</i> se refiere a toda mercancía que se consigue a partir de un proceso productivo; esto, con el fin de ofrecerla en el mercado a cambio de una contraprestación.
     
     p(data-aos="fade-right") Ahora bien, su aplicación al nivel del servicio al cliente está directamente relacionado con la gestión y efectividad de la gestión logística de todos los integrantes del canal: flujos de información, de materiales, de productos, etc. La logística del servicio al cliente se puede entender como todas las acciones que hace una empresa para que su cadena de suministros ofrezca lo mejor para sus clientes y mercado objetivo.
     p.mb-5(data-aos="fade-right") Para llevar a cabo el diseño del servicio al cliente se deben tomar en consideración un conjunto de principios, tales como:

@@ -44,9 +44,15 @@
     p.mb-5(data-aos="fade-right") Con una política de servicio y atención cercana al cliente, éste tiene a la mano lo que puede esperar de su empresa en términos de servicio, si el cliente tiene claro lo que puede esperar, habrá menos probabilidades de que se sienta inconforme.
     .h4(data-aos="fade-left") Etapas de una política de servicio al cliente
     p.mb-5(data-aos="fade-right") Conocer, analizar y definir objetivos, determina la relación con todas las variables que busca el cliente en el momento en el que nos solicita un producto o servicio. Podemos decir que la política de servicio al cliente debe contemplar los siguientes aspectos:
-    
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-botones(data-aos="fade-right")
+          h5 Figura 3.
+          span Etapas de una política de servicio al cliente
+
     figure.mb-5(data-aos="zoom-in")
-      img(src='@/assets/curso/img23.svg', style="width: 1250px; margin: auto;" alt="Pasos de la politica de servicio al cliente:<br>1. Identificar los elementos clave del servicio <br>2. Establecer su importancia relativa para los clientes<br>3. Comunicación existente entre la empresa y los clientes.<br>4. Controlar la eficiencia de la política implantada y corregirla si es necesario.")
+      img(src='@/assets/curso/img23.svg', style="width: 1250px; margin: auto;" alt="Pasos de la política de servicio al cliente:<br>1. Identificar los elementos clave del servicio<br>2. Establecer su importancia relativa para los clientes<br>3. Comunicación existente entre la empresa y los clientes.<br>4. Controlar la eficiencia de la política implantada y corregirla si es necesario")
 
     p.mb-5(data-aos="fade-right") Cubrir estas etapas de una manera adecuada debe llevarnos a que el cliente sienta que se le facilita la vida disponiendo de existencias, gestionando de manera adecuada los pedidos, siendo precisos en la gestión de la información y en el transporte, envíos y entregas. Para ello, son necesarias la máxima flexibilidad y organización de todos los elementos que componen la logística operativa de todas las empresas que intervienen en el canal, para no percibir negativamente el servicio que se le ofrece.
     
@@ -100,7 +106,7 @@
         figure
           img(src='@/assets/curso/img27.svg', style="width: 500px; margin: auto;" alt="Imagen decorativa")
     
-    p(data-aos="fade-right") Hay una diferencia entre “retener” y “fidelizar” a los clientes. Se puede retener al cliente con precios menores que la competencia, con descuentos o con premios; pero estos son mecanismos de carácter temporal ya que de mantenerse por largo tiempo afectarían negativamente la rentabilidad y estabilidad del negocio. Es por ello que se deben desarrollar mecanismos de fidelización, ello implica un ejercicio permanente en donde el cliente, el producto y la forma de interactuar empresa-cliente, sean los mayores atributos.
+    p(data-aos="fade-right") Hay una diferencia entre “retener” y “fidelizar” a los clientes. Se puede retener al cliente con precios menores que la competencia, con descuentos o con premios; pero estos son mecanismos de carácter temporal, ya que de mantenerse por largo tiempo afectarían negativamente la rentabilidad y estabilidad del negocio. Es por ello que se deben desarrollar mecanismos de fidelización, ello implica un ejercicio permanente en donde el cliente, el producto y la forma de interactuar empresa-cliente, sean los mayores atributos.
     p.mb-5(data-aos="fade-right") Por este motivo, para conservar los clientes actuales es importante verlo desde el punto de vista cualitativo y cuantitativo:
     
     .tarjeta--container.row.mb-5
@@ -195,7 +201,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
-          h5 Figura 1.
+          h5 Figura 4.
           span Pilares del CRM
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/img30.svg', alt="Representa os pilares del CRM, que son: analizar el cliente, relaciones con el cliente y atraer al cliente.")
@@ -232,14 +238,14 @@
                 .col-7
                   figure
                     img(src='@/assets/curso/img34.svg', alt="Imagen decorativa")
-              .h3.text-center.mb-0 Simplifica tareas repetitivas para que pueda hacer un acompañamiento de leads más efectivo.
+              .h3.text-center.mb-0 Simplifica tareas repetitivas para que pueda hacer un acompañamiento de #[i leads] más efectivo.
           .col-lg-4.col-sm-6.mb-lg-0.mb-4.d-flex(data-aos="flip-up")
             .tarjeta--boton.color-primario.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img35.svg', alt="Imagen decorativa")
-              .h3.text-center.mb-0 Proporciona recomendaciones e insights instantáneos.
+              .h3.text-center.mb-0 Proporciona recomendaciones e #[i insights] instantáneos.
           .col-lg-4.col-sm-6.d-flex(data-aos="fade-left")
             .tarjeta--boton.color-primario.p-4
               .row.justify-content-center.mb-3
@@ -282,7 +288,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
-          h5 Figura 2.
+          h5 Figura 5.
           span Producción de servicios
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/img38.svg', alt="Muestra la producción de servicios, teniendo una entrada como estrategia, un procesos donde se encuentra el talento humano, los procesos, la organización interna y el soporte físico, a su vez se genera una salida que es el servicio que va directamente al cliente.")

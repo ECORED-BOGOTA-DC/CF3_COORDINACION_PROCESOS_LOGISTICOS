@@ -33,7 +33,7 @@
             | Promueve la seguridad comercial y la confianza de los consumidores.
           li(data-aos="fade-right") 
             i.fas.fa-angle-right(style="color: #FE7062")
-            | Optimiza la gestión de stock.
+            p.mb-0 Optimiza la gestión de #[i stock].
           li(data-aos="fade-right") 
             i.fas.fa-angle-right(style="color: #FE7062")
             | Ayuda para hacer frente a las reclamaciones de los clientes.

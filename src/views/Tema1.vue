@@ -32,7 +32,7 @@
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             p.mb-5 Entendiendo la definición de cliente piense por un momento como ejercicio de análisis y pausa activa lo siguiente:
             p.mb-5 ¿Quién es el cliente de los pañales de bebé? 
-            p.mb-5 ¿Ese producto tiene un solo clientes?
+            p.mb-5 ¿Ese producto tiene un solo cliente?
             p.mb-0 Luego de eso continúe con los principios para definir un cliente. 
       .py-4.py-md-5(titulo="Principios para definir un cliente" :icono="require('@/assets/curso/img3.svg')" alt="Imagen decorativa")
         .row.justify-content-center.align-items-start
@@ -77,7 +77,11 @@
               img(src='@/assets/curso/img8.svg', style="width: 450px; margin: auto;" alt="Imagen decorativa")
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             .h4 Tipos de clientes según su nivel de fidelización
-            p.mb-5(data-aos="fade-right") Cada cliente es diferente, se debe aprender a identificar cada perfil para saber cómo tratarlos y obtener múltiples beneficios como el crecimiento de las ventas y el mejoramiento del servicio.
+            p(data-aos="fade-right") Cada cliente es diferente, se debe aprender a identificar cada perfil para saber cómo tratarlos y obtener múltiples beneficios como el crecimiento de las ventas y el mejoramiento del servicio.
+
+            p El cliente constituye el eje principal de cualquier empresa. Un cliente es quien accede a un producto o servicio por medio de una transacción financiera (dinero) u otro medio de pago, habitualmente se determina que la persona que compra o que consume es un cliente desde la logística, sin embargo en temas de mercadotecnia no funciona igual porque el mensaje se diferencia entre el consumidor y el comprador en caso de no ser la misma persona; por ejemplo, un papá compra el juguete que el niño quiere sin tener opción a elección, el cliente es el papá y el niño el consumidor; para los procesos logísticos ambos son clientes, pero en mercadotecnia el papá sería el usuario y el niño el consumidor y según esa distinción se enfocan los esfuerzos comerciales.
+            p Entonces la definición de cliente queda abierta para toda aquella persona que compra, adquiere o usa los productos o servicios de una empresa, inclusive si no llega a ser el consumidor final.
+
             a.anexo.mb-4(:href="obtenerLink('downloads/Tipos_de_clientes_segun_su_nivel_de_fidelizacion.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
@@ -106,8 +110,12 @@
             p La clave en la selección de los proveedores de un producto o servicio recae en la importancia de saber qué criterios utilizar para seleccionarlos, ya que se debe tomar en cuenta qué tipo de impacto tendrán los productos o servicios que ofrecen y si este será un impacto positivo con la productividad, calidad y competitividad de la organización misma.
             p.mb-0 En la figura se muestran los criterios recomendados por Castellanos (2015) para la selección de un proveedor.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            .titulo-sexto.color-acento-botones(data-aos="fade-right")
+              h5 Figura 1.
+              span Criterios para la selección de un proveedor
+
             figure
-              img(src='@/assets/curso/img12.svg', style="width: 600px; margin: auto;" alt="Muestra un mapa, con: Selección de proveedores: entrega oportuna, excelente servicio, el mejor precio, garantía de devolución, calidad de los productos.")
+              img(src='@/assets/curso/img12.svg', style="width: 600px; margin: auto;" alt="Muestra un mapa con selección de proveedores: entrega oportuna, excelente servicio, el mejor precio, garantía de devolución, calidad de los productos.")
       .py-4.py-md-5(titulo="Recuerde" :icono="require('@/assets/curso/img11.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-4.col-8.mb-lg-0.mb-4

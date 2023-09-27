@@ -142,7 +142,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '5.3',
             titulo:
-              'La logística del servicio al cliente - Output cadena de suministros',
+              'La logística del servicio al cliente - <i>Output</i> cadena de suministros',
             hash: 't_5_3',
           },
         ],
@@ -385,9 +385,9 @@ export default {
   complementario: [
     {
       tema: '3.4 Comunicación con los clientes',
-      texto:
-        'Wholemeaning (2018). 6 pasos a tomar para mejorar la comunicación con tus clientes.',
-      referencia: 'Pagina web',
+      referencia:
+        'Wholemeaning (2018). <i>6 pasos a tomar para mejorar la comunicación con tus clientes.</i>',
+      tipo: 'Pagina web',
       link:
         'https://wmwp.wholemeaning.com/6-pasos-a-tomar-para-mejorar-la-comunicacion-con-tus-clientes/',
     },

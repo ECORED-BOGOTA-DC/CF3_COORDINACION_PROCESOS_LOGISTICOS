@@ -126,10 +126,11 @@
             .h5.mb-0 Mejía (2003)
         p.mb-0 Una definición dentro de la propuesta de valor es la muestra de acción de la empresa frente a las demás ofertas del mercado, las cuales pueden ser referentes para elementos positivos o no tan positivos que hagan del comportamiento de la empresa una propuesta favorable para el cliente y para eso se requiere revisar los siguientes elementos desde cada departamento de la empresa.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Elementos a validar")
-        .titulo-quinto.color-acento-contenido
-          h4 Elementos a validar en una propuesta de valor
+        .titulo-sexto.color-acento-botones(data-aos="fade-right")
+          h5 Figura 2.
+          span Elementos a validar en una propuesta de valor
         figure
-          img(src='@/assets/curso/img17.svg', style="width: 700px; margin: auto;" alt="Imagen decorativa")
+          img(src='@/assets/curso/img17.svg', style="width: 700px; margin: auto;" alt="Elementos a validar en una propuesta de valor:<br>1. Características del producto o productos.<br>2. El precio<br>3. Tiempo de entrega<br>4. Proceso de ventas<br>5. Servicio postventa<br>6. Nivel de asesoría<br>7. Nivel de información<br>8. Nivel de innovación y tecnología disponible.")
     
     separador
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
